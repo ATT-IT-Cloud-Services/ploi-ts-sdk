@@ -1,16 +1,16 @@
 {
   "name": "@elizonapp/ploi-ts-sdk",
-  "version": "1.0.1c",
+  "version": "1.0.1",
   "description": "TypeScript SDK for the Ploi.io API",
   "license": "MIT",
-  "author": "elizon",
+  "author": "ATT-IT Cloud Services",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elizonapp/ploi-ts-sdk.git"
+    "url": "git+https://github.com/ATT-IT-Cloud-Services/ploi-ts-sdk.git"
   },
-  "homepage": "https://github.com/elizonapp/ploi-ts-sdk#readme",
+  "homepage": "https://github.com/ATT-IT-Cloud-Services/ploi-ts-sdk#readme",
   "bugs": {
-    "url": "https://github.com/elizonapp/ploi-ts-sdk/issues"
+    "url": "https://github.com/ATT-IT-Cloud-Services/ploi-ts-sdk/issues"
   },
   "keywords": [
     "ploi",
